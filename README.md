@@ -1,7 +1,6 @@
 # CTF WriteUps
  Repo for CTF WriteUps
 
-<br>
 ### Overview
 
  | CTF Name | Writeup Link |
