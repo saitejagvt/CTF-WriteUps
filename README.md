@@ -13,4 +13,5 @@
  | CTF Name | Writeup Link |
  | --- | --- |
  | RootAccess | [2024](https://bird-sleep-76f.notion.site/Root-Access-CTF-2024-3f2aff72f90c4d24a178afb34f4729d6) |
+ | BSides Chandigarh CTF | [2024](https://github.com/saitejagvt/CTF-WriteUps/blob/main/writeup-docs/Bsides%20Chandigarh%20CTF%202024%20-%20WriteUp.pdf) |
 
