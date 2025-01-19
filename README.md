@@ -15,3 +15,4 @@
  | RootAccess CTF | [2024](https://wr4th.notion.site/Root-Access-CTF-2024-3f2aff72f90c4d24a178afb34f4729d6) |
  | BSides Chandigarh CTF | [2024](https://github.com/saitejagvt/CTF-WriteUps/blob/main/writeup-docs/Bsides%20Chandigarh%20CTF%202024%20-%20WriteUp.pdf) |
  | VulnX CTF | [2024](https://wr4th.notion.site/VulnX-CTF-2024-WriteUp-88ec8acf8a3b4ceaa211d0fac27e9c9a) |
+ | Seasides Hack Quest | [2025](https://wr4th.notion.site/Seasides-Hack-Quest-2025-17f20805800b803ba06fea3dccd75e2d) |
